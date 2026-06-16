@@ -1,0 +1,12 @@
+{
+  "android": {
+    "1.0.0": {
+      "1.0.0": {
+        "enabled": true,
+        "mandatory": false,
+        "downloadUrl": "",
+        "packageHash": ""
+      }
+    }
+  }
+}
