@@ -6,12 +6,6 @@
         "mandatory": false,
         "downloadUrl": "",
         "packageHash": ""
-      },
-      "v1": {
-        "enabled": true,
-        "mandatory": false,
-        "downloadUrl": "https://github.com/luisurpay7/rn-puro-codepush/releases/download/codepush-android-1781584843077/690447bf7f2eb0b220ce40e966a82c53fa788a08eda7a4d3370d57e54b31e420",
-        "packageHash": "690447bf7f2eb0b220ce40e966a82c53fa788a08eda7a4d3370d57e54b31e420"
       }
     }
   }
