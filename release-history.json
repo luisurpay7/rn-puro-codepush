@@ -12,6 +12,12 @@
         "mandatory": false,
         "downloadUrl": "https://github.com/luisurpay7/rn-puro-codepush/releases/download/codepush-android-1781589335393/667a4ecd08cc0b46d5e363a21d5fc87a27a2cc9b69295ebb36d694b03f4f3e5d",
         "packageHash": "667a4ecd08cc0b46d5e363a21d5fc87a27a2cc9b69295ebb36d694b03f4f3e5d"
+      },
+      "1.0.2": {
+        "enabled": true,
+        "mandatory": false,
+        "downloadUrl": "https://github.com/luisurpay7/rn-puro-codepush/releases/download/codepush-android-1781626750771/821646e2d796968ef1266e14d032f080c042ef20058ed3b28d1eac07885b7b5d",
+        "packageHash": "821646e2d796968ef1266e14d032f080c042ef20058ed3b28d1eac07885b7b5d"
       }
     }
   }
